@@ -1,0 +1,6 @@
+projectKey=spring01
+serverUrl=http://localhost:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://localhost:9000/dashboard?id=spring01
+ceTaskId=AXA_HEXoUxqNShDbdteQ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXA_HEXoUxqNShDbdteQ
